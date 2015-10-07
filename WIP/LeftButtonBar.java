@@ -16,7 +16,7 @@
 //    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //////////////////////////////////////////////////////////////////////////////////
 
-package com.brianmcmichael.SimpleGlacierUploader;
+package com.brianmcmichael.simpleglacieruploader;
 
 import javax.swing.*;
 import javax.swing.border.BevelBorder;
